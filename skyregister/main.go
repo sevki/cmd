@@ -5,7 +5,7 @@ import (
 	"flag"
 	"net"
 	"os"
-
+	"fmt"
 	"log"
 
 	etcd "github.com/coreos/go-etcd/etcd"
