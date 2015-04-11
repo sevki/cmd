@@ -1,0 +1,8 @@
+language: go
+
+go:
+  - tip
+script:
+  - go build -v ipecho
+  - go build -v skyregister
+  - go build -v stackdriver-deploy
