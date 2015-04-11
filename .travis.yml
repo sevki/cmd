@@ -6,6 +6,6 @@ go:
   - 1.4
   - tip
 script:
-  - go build -v ipecho
-  - go build -v skyregister
-  - go build -v stackdriver-deploy
+  - go get sevki.org/tools/ipecho
+  - go get sevki.org/tools/skyregister
+  - go get sevki.org/tools/stackdriver-deploy
