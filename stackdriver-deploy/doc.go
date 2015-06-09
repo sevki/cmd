@@ -5,4 +5,4 @@ Usage:
 	stackdriver-deploy --apikey=$API_KEY [--commit=$BUILD_ID --to=production --repo=x/y]
 
 */
-package main // import "sevki.org/tools/stackdriver-deploy"
+package main // import "sevki.org/cmd/stackdriver-deploy"

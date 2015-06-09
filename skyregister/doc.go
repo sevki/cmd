@@ -6,4 +6,4 @@ Usage:
 	skyregister [-etcd -domain]
 
 */
-package main // import "sevki.org/tools/skyregister"
+package main // import "sevki.org/cmd/skyregister"
